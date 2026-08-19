@@ -1,0 +1,1 @@
+JS object scope closure.
