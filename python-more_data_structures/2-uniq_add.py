@@ -7,4 +7,4 @@ def uniq_add(my_list=[]):
             sum += my_list[i]
             unique.append(my_list[i])
     return sum
-uniq_add([1,2,3,4,5,1])
+uniq_add([1, 2, 3, 4, 5, 1])
